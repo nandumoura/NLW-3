@@ -1,0 +1,8 @@
+[1012/100040.309:ERROR:settings.cc(430)] Settings version is not 5
+[1012/101859.958:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/160550.851:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\nandu\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bf7c93c5-df0a-414c-9220-c4c05fa6e3db: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/161058.862:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/172144.431:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/203701.913:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/065801.077:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/123137.758:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
